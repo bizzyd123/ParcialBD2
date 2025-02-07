@@ -1,0 +1,22 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Parcial2BD.sln
+# Archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.log
+
+# Archivos de compilación de .NET
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.nuget.cache
+*.nuget.dgspec.json
+*.nuget.props
+project.assets.json
